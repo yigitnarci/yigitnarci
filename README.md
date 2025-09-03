@@ -1,7 +1,6 @@
 🎓 CS & Engineering @ Sabancı University
 💻 Love building with C++, Python, and AI
 🌱 Learning System Design & Advanced C++
-🎮 Curious about Game Dev & Optimization
 🤝 Open to collaborations & open-source
 
 📫 Connect With Me
